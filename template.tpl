@@ -15,7 +15,7 @@
 ___INFO___
 
 {
-  "displayName": "Example Template",
+  "displayName": "Poplink Ads Template",
   "description": "This is an example template. For more information, visit https://developers.google.com/tag-manager/templates",
   "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
   "securityGroups": [],
