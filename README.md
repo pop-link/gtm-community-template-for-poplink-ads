@@ -1,4 +1,4 @@
-# example-community-template
+# poplink-ads-community-template
 
 The example-community-template project is an example of a Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) repository that can be used as a template to generate new community template repositories.
 
